@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Rahul Divi</h1>
 <h3 align="center">A passionate developer from India actively diving into new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/XOO-63-4CygAAAAM/angry-kitten-angry-cat.gif”>
+<img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/290/389/d8d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdivi297&label=Profile%20views&color=0e75b6&style=flat" alt="rdivi297" /> </p>
+
+
 
 - 👾 I’m currently working on **NLP**
 
@@ -10,11 +11,11 @@
 
 - 🤝 I’m looking to collaborate on **anything contemporary**
 
-- 💀 I’m looking for help with **Advanced DSA**
+- 🫡 I’m looking for help with **Advanced DSA**
 
 - 🗿 Ask me about **Machine Learning**
 
-- 🕴🏻 How to reach me **rdivi297@gmail.com**
+- ☕️ How to reach me **rdivi297@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +23,7 @@
 <a href="https://linkedin.com/in/rahuldivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuldivi" height="30" width="40" /></a>
 <a href="https://instagram.com/rahuldivi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahuldivi_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahuldivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahuldivi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rdivi585j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rdivi585j" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
