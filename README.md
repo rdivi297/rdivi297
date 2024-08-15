@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Rahul Divi</h1>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Rahul+Divi;" />
+</h1>
 <h3 align="center">A passionate developer from India actively diving into new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/290/389/d8d.gif">
 
@@ -33,3 +37,6 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=rdivi297&theme=radical&hide_border=false" width = "50%" >
     <img src="https://github-readme-stats.vercel.app/api?username=rdivi297&show_icons=true&theme=radical" alt="okieLoki" width = 46%/>
 </p>   
+<p align="center">
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rdivi297&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
